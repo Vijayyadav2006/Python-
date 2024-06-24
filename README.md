@@ -1,2 +1,3 @@
-# res
-this is first trial of github
+# resposed
+this is first trial of github here!
+Author ~VIJAY YADAV
