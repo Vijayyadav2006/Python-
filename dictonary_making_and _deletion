@@ -1,0 +1,13 @@
+dictonory={
+ "id" : " ABcsd",
+"Roll_No" : 3165,
+"Email_id" :" vy0495885",
+"Mobile_no" : 81039732
+}
+print("Before adding dictonary",dictonory,end = " ")
+adding new dictonary key and value
+dictonory["New"] = "Hey"
+print(dictonory)
+del dictonory["New"]
+after delete
+print(dictonory)
